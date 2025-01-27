@@ -56,3 +56,5 @@ where the murderer carried out their plan!
 
 Make sure to document this discovery in your notebook.md file along with your
 other findings about the weapon and suspect.
+
+I surrender GG I didnt find any weapons and the only person i found was the doctor.
