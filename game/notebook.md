@@ -42,3 +42,5 @@ Nothing in library
 Nothing in bakery
 
 Nothing in market
+
+New Clue go to the playground in the Park
